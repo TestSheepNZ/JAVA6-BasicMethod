@@ -10,7 +10,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class basicMethod {
+public class BasicMethod {
 
 	private static void printMe()
 	{
